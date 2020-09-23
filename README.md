@@ -1,1 +1,1 @@
-"# spotifyLyricsGenerator" 
+# spotifyLyricsGenerator
